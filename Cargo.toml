@@ -1,0 +1,15 @@
+[package]
+name = "winclip"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clipboard-win = { version = "5.4.0", features = ["windows-win"] }
+docopt = "1.1.1"
+serde = { version = "1.0.204", features = ["derive"] }
+
+[dev-dependencies]
+assert_cmd = "2.0.14"
+assert_fs = "1.1.1"
+predicates = "3.1.0"
+serial_test = "3.1.1"
