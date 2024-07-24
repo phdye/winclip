@@ -1,6 +1,6 @@
 # WORK IN PROGRESS
 
-While functional, this is a work in progress.  See the [ROADMAP](ROADMAP.md) for which features have been implemented thus far.
+While functional, this is a work in progress.  See the [ROADMAP](ROADMAP.md) for which features have been implemented thus far.  Only items with a checkmark (✓) have been implemented.
 
 # Winclip
 
