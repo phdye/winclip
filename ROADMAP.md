@@ -97,4 +97,4 @@ Winclip is licensed under the MIT License. See the [LICENSE](LICENSE) file for m
 
 ## Acknowledgments
 
-Winclip was created by Diomidis Spinellis. For more information, visit the [official website](https://www.spinellis.gr/sw/outwit/winclip.html).
+Winclip was created by Diomidis Spinellis.  This is merely a knockoff.  For more information, visit the [official website](https://www.spinellis.gr/sw/outwit/winclip.html).
