@@ -4,19 +4,19 @@ Winclip is a command-line utility designed for accessing and manipulating the Wi
 
 ## Features
 
+- ✓ **Paste from Clipboard**: Output clipboard contents to standard output or a specified file.
 - **Copy to Clipboard**: Copy data from standard input or a file to the clipboard.
-- **Paste from Clipboard**: Output clipboard contents to standard output or a specified file.
 - **Clipboard Information**: Display available data formats in the clipboard.
 - **Text Format Options**: Support for various text formats including ANSI, OEM, Unicode, and UTF-8.
 - **Graphics Support**: Copy graphic images to the clipboard using built-in and OLE interfaces.
 - **Language and Sublanguage Identification**: Specify language and sublanguage for clipboard text data.
-- **Version and Help**: Display version information and help text.
+- ✓ **Version and Help**: Display version information and help text.
 
 ## Installation
 
 To install Winclip, follow these steps:
 
-1. Download the latest release from the [Winclip releases page](https://www.spinellis.gr/sw/outwit/winclip.html).
+1. Download the latest release from the [... Not Yet ...]().
 2. Extract the downloaded archive.
 3. Add the directory containing `winclip.exe` to your system's PATH.
 
