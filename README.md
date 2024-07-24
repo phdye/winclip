@@ -1,6 +1,6 @@
 # WORK IN PROGRESS
 
-While functional, this is a work in progress.  See the [ROADMAP] for which features have been implemented thus far.
+While functional, this is a work in progress.  See the [ROADMAP](ROADMAP.md) for which features have been implemented thus far.
 
 # Winclip
 
@@ -8,7 +8,7 @@ Winclip is a command-line utility designed for accessing and manipulating the Wi
 
 ## Clean room design
 
-In search of a small project to explore AI assisted development, I decided to pick a modest but well defined CLI tool with a good man page and reimplment it from scratch.  [Winclip](https://www.spinellis.gr/sw/outwit/winclip.html) was the ideal choice as I had recently been working on a similar clipboard tool (clipctl) and was extremely familiar with all necessary internals.  [High-Level-Design] [ROADMAP]
+In search of a small project to explore AI assisted development, I decided to pick a modest but well defined CLI tool with a good man page and reimplment it from scratch.  [Winclip](https://www.spinellis.gr/sw/outwit/winclip.html) was the ideal choice as I had recently been working on a similar clipboard tool (clipctl) and was extremely familiar with all necessary internals.  [High-Level-Design](High-Level-Design.md) [ROADMAP](ROADMAP.md)
 
 ## Features
 
