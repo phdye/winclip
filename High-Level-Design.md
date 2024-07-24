@@ -71,3 +71,7 @@ Winclip is a command-line utility for accessing and manipulating the Windows cli
 
 ## Conclusion
 Winclip provides a robust command-line interface for clipboard operations on Windows, supporting a variety of text and graphic formats, and offering flexibility in data handling through various options and commands.
+
+## Acknowledgments
+
+Winclip was created by Diomidis Spinellis.  This is merely a knockoff.  For more information, visit the [official website](https://www.spinellis.gr/sw/outwit/winclip.html).
