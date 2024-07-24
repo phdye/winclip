@@ -1,3 +1,7 @@
+# WORK IN PROGRESS
+
+While functional, this is a work in progress.  See the [ROADMAP](ROADMAP.md) for which features have been implemented thus far.  Only items with a checkmark (✓) have been implemented.
+
 # Winclip
 
 Winclip is a command-line utility designed for accessing and manipulating the Windows clipboard. It allows you to copy data to the clipboard, paste data from the clipboard, and query clipboard data formats directly from a console or MS-DOS window.
