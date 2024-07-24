@@ -8,8 +8,11 @@ Winclip is a command-line utility designed for accessing and manipulating the Wi
 
 ## Clean room design
 
-In search of a small project to explore AI assisted development, I decided to pick a modest but well defined CLI tool with a good man page and reimplment it from scratch.  [Winclip](https://www.spinellis.gr/sw/outwit/winclip.html) was the ideal choice as I had recently been working on a similar clipboard tool (clipctl) and was extremely familiar with all necessary internals.  [High-Level-Design](High-Level-Design.md) [ROADMAP](ROADMAP.md)
+In search of a small project to explore AI assisted development, I decided to pick a modest but well defined CLI tool with a good man page and reimplment it from scratch.  [Winclip](https://www.spinellis.gr/sw/outwit/winclip.html) was the ideal choice as I had recently been working on a similar clipboard tool (clipctl) and was extremely familiar with all necessary internals.  
 
+- [High-Level-Design](High-Level-Design.md)
+- [ROADMAP](ROADMAP.md)
+  
 ## Features
 
 - **Copy to Clipboard**: Copy data from standard input or a file to the clipboard.
