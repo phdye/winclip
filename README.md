@@ -1,6 +1,14 @@
+# WORK IN PROGRESS
+
+While functional, this is a work in progress.  See the [ROADMAP] for which features have been implemented thus far.
+
 # Winclip
 
 Winclip is a command-line utility designed for accessing and manipulating the Windows clipboard. It allows you to copy data to the clipboard, paste data from the clipboard, and query clipboard data formats directly from a console or MS-DOS window.
+
+## Clean room design
+
+In search of a small project to explore AI assisted development, I decided to pick a modest but well defined CLI tool with a good man page and reimplment it from scratch.  [Winclip](https://www.spinellis.gr/sw/outwit/winclip.html) was the ideal choice as I had recently been working on a similar clipboard tool (clipctl) and was extremely familiar with all necessary internals.  [High-Level-Design] [ROADMAP]
 
 ## Features
 
@@ -97,4 +105,4 @@ Winclip is licensed under the MIT License. See the [LICENSE](LICENSE) file for m
 
 ## Acknowledgments
 
-Winclip was created by Diomidis Spinellis. For more information, visit the [official website](https://www.spinellis.gr/sw/outwit/winclip.html).
+Winclip was created by Diomidis Spinellis.  This is merely a knockoff.  For more information, visit the [official website](https://www.spinellis.gr/sw/outwit/winclip.html).
