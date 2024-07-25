@@ -75,3 +75,10 @@ Winclip provides a robust command-line interface for clipboard operations on Win
 ## Acknowledgments
 
 Winclip was created by Diomidis Spinellis.  This is merely a knockoff.  For more information, visit the [official website](https://www.spinellis.gr/sw/outwit/winclip.html).
+
+## References
+
+[WinClip manual page](https://www.spinellis.gr/sw/outwit/winclip.html)
+
+Microsoft Technical Docs [Using the Clipboard](https://learn.microsoft.com/en-us/windows/win32/dataxchg/using-the-clipboard)
+
