@@ -80,5 +80,6 @@ Winclip was created by Diomidis Spinellis.  This is merely a knockoff.  For more
 
 [WinClip manual page](https://www.spinellis.gr/sw/outwit/winclip.html)
 
-Microsoft Technical Docs [Using the Clipboard](https://learn.microsoft.com/en-us/windows/win32/dataxchg/using-the-clipboard)
+[Using the Clipboard](https://learn.microsoft.com/en-us/windows/win32/dataxchg/using-the-clipboard) - the official Microsoft technical documents.
 
+[clipboard_win](https://docs.rs/clipboard-win/latest/clipboard_win/) - The Windows clipboard API used in this project.
