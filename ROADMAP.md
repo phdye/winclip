@@ -9,7 +9,7 @@ Winclip is a command-line utility designed for accessing and manipulating the Wi
 ## Features
 
 - ✓ **Paste from Clipboard**: Output clipboard contents to standard output or a specified file.
-- **Copy to Clipboard**: Copy data from standard input or a file to the clipboard.
+- ✓ **Copy to Clipboard**: Copy data from standard input or a file to the clipboard.
 - **Clipboard Information**: Display available data formats in the clipboard.
 - **Text Format Options**: Support for various text formats including ANSI, OEM, Unicode, and UTF-8.
 - **Graphics Support**: Copy graphic images to the clipboard using built-in and OLE interfaces.
